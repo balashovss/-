@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.11)  13 NOV 2024 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.11)  13 NOV 2024 16:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -899,11 +899,28 @@ Package babel Info: Default for \cyrdash is provided on input line 163.
 )) (D:\Programs\MiKTeX\tex/generic/babel/locale/ru\babel-russian.tex
 Package babel Info: Importing font and identification data for russian
 (babel)             from babel-ru.ini. Reported on input line 11.
+) (D:\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (D:\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\c@definition=\count289
+\Gm@cnth=\count289
+\Gm@cntv=\count290
+\c@Gm@tempcnt=\count291
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
+\Gm@dimlist=\toks25
+ (D:\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+\c@definition=\count292
  (D:\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count290
+\l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box53
 ) (Lektsii.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 8.
@@ -912,115 +929,99 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `Lektsii.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
  (D:\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count291
-\scratchdimen=\dimen157
+\scratchcounter=\count294
+\scratchdimen=\dimen165
 \scratchbox=\box54
-\nofMPsegments=\count292
-\nofMParguments=\count293
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count294
-\MPscratchDim=\dimen158
-\MPnumerator=\count295
-\makeMPintoPDFobject=\count296
-\everyMPtoPDFconversion=\toks26
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen166
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks27
 ) (D:\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (D:\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (D:\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 17.
  (Lektsii.out) (Lektsii.out)
 \@outlinefile=\write3
 \openout3 = `Lektsii.out'.
 
-LaTeX Info: Redefining \th on input line 16.
+LaTeX Info: Redefining \th on input line 17.
 
-Overfull \hbox (17.71846pt too wide) in paragraph at lines 29--33
-\T2A/cmr/m/n/12 про-грам-мы для ЭВМ, ба-зы дан-ных), объ-ек-ты па-тент-ных прав(изобретения),
- []
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(45.80893pt, 505.89pt, 45.80894pt)
+* v-part:(T,H,B)=(63.39273pt, 686.56499pt, 95.08913pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=505.89pt
+* \textheight=686.56499pt
+* \oddsidemargin=-26.46106pt
+* \evensidemargin=-26.46106pt
+* \topmargin=-45.87726pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (12.83781pt too wide) in paragraph at lines 34--35
-\T2A/cmr/m/n/12 ко-то-ро-го со-здан ре-зуль-тат инт. де-я-тель-но-сти), пра-во-об-ла-да-тель(гражданин
+Overfull \hbox (2.71475pt too wide) in paragraph at lines 32--33
+[][]\T2A/cmr/m/it/12 Объекты ИС: ре-зуль-та-ты инт. де-я-тель-но-сти(РИД) - нор-маль-ные ре-зуль-та-ты тру-
  []
 
 [1
 
-{C:/Users/maksi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (0.91977pt too wide) in paragraph at lines 42--47
-\T2A/cmr/m/n/12 свои сро-ки на ис-клю-чи-тель-ные пра-ва, уста-нов-лен-ные за-ко-но-да-тель-ством.
+{C:/Users/maksi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] [5]
+Overfull \hbox (28.6162pt too wide) in paragraph at lines 315--318
+[]\T2A/cmr/m/n/12 Патент - пра-во-уста-нав-ли-ва-ю-щий до-ку-мент. Он удо-сто-ве-ря-ет: + при-о-ри-тет изоб-ре-те-ния/полезной
  []
 
-
-Overfull \hbox (19.51944pt too wide) in paragraph at lines 42--47
-\T2A/cmr/m/n/12 мик-ро-схем, то-вар-ные зна-ки и зна-ки об-слу-жи-ва-ния) ли-бо па-тент(изобретения
- []
-
-[2] [3]
-Overfull \hbox (13.97086pt too wide) in paragraph at lines 147--149
-[]\T2A/cmr/m/n/12 Обнародованное (опуб-ли-ко-ван-ное) про-из-ве-де-ние Необ-на-ро-до-ван-ное про-
- []
-
-[4]
-Overfull \hbox (6.47261pt too wide) in paragraph at lines 189--191
-[]\T2A/cmr/m/n/12 авторы со-став-ных про-из-ве-де-ний яв-ля-ют-ся са-мо-сто-я-тель-ны-ми и неза-
- []
-
-[5]
-Overfull \hbox (0.27185pt too wide) in paragraph at lines 245--248
-[]\T2A/cmr/m/n/12 В ин-фор-ма-ци-он-ных, на-уч-ных, учеб-ных или куль-тур-ных це-лях (объ-
- []
-
-[6]
-Overfull \hbox (8.76428pt too wide) in paragraph at lines 301--307
-[]\T2A/cmr/m/n/12 полезные мо-де-ли. Про-дукт (устрой-ство, ком-плек-сы, ве-ще-ство, штамм
- []
-
-[7] [8]
-Overfull \hbox (23.43643pt too wide) in paragraph at lines 378--381
-\T2A/cmr/m/n/12 ные изоб-ре-те-ния, по-лез-ные мо-де-ли, про-из-вод-ствен-ные об-раз-цы.(регулируется
- []
-
-[9]
-Overfull \hbox (0.76352pt too wide) in paragraph at lines 395--397
-[]\T2A/cmr/m/n/12 Формальная экс-пер-ти-за(проверка до-ку-мен-тов, про-вер-ка опла-ты по-
- []
-
-[10]
-Overfull \hbox (20.66698pt too wide) in paragraph at lines 440--441
-[]\T2A/cmr/m/n/12 уголовная(большие убыт-ки и уда-лось до-ка-зать причинно-следственную
- []
-
-[11] (Lektsii.aux)
+[6] [7] [8] [9] (Lektsii.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
@@ -1029,17 +1030,17 @@ Package rerunfilecheck Info: File `Lektsii.out' has not changed.
 (rerunfilecheck)             Checksum: 36DBEE6E3289CA794ECD581087C268F3;1591.
  ) 
 Here is how much of TeX's memory you used:
- 10896 strings out of 474370
- 166908 string characters out of 5752729
- 1933754 words of memory out of 5000000
- 33128 multiletter control sequences out of 15000+600000
- 567380 words of font info for 52 fonts, out of 8000000 for 9000
+ 11363 strings out of 474370
+ 173689 string characters out of 5752729
+ 1936754 words of memory out of 5000000
+ 33581 multiletter control sequences out of 15000+600000
+ 570492 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,615b,573s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,657b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk>
-Output written on Lektsii.pdf (11 pages, 131397 bytes).
+Output written on Lektsii.pdf (9 pages, 135946 bytes).
 PDF statistics:
- 404 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
+ 415 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
