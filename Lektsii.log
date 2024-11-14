@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.11)  13 NOV 2024 16:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.11)  14 NOV 2024 15:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1016,31 +1016,26 @@ Overfull \hbox (2.71475pt too wide) in paragraph at lines 32--33
 
 [1
 
-{C:/Users/maksi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] [5]
-Overfull \hbox (28.6162pt too wide) in paragraph at lines 315--318
-[]\T2A/cmr/m/n/12 ѕатент - пра-во-уста-нав-ли-ва-ю-щий до-ку-мент. ќн удо-сто-ве-р€-ет: + при-о-ри-тет изоб-ре-те-ни€/полезной
- []
-
-[6] [7] [8] [9] (Lektsii.aux)
+{C:/Users/maksi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9] [10] (Lektsii.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
  ***********
 Package rerunfilecheck Info: File `Lektsii.out' has not changed.
-(rerunfilecheck)             Checksum: 36DBEE6E3289CA794ECD581087C268F3;1591.
+(rerunfilecheck)             Checksum: 45A775D4D68899B0FC527911DE60A4D9;2233.
  ) 
 Here is how much of TeX's memory you used:
- 11363 strings out of 474370
- 173689 string characters out of 5752729
- 1936754 words of memory out of 5000000
- 33581 multiletter control sequences out of 15000+600000
+ 11370 strings out of 474370
+ 173786 string characters out of 5752729
+ 1935754 words of memory out of 5000000
+ 33584 multiletter control sequences out of 15000+600000
  570492 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,657b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\maksi\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk>
-Output written on Lektsii.pdf (9 pages, 135946 bytes).
+Output written on Lektsii.pdf (10 pages, 139395 bytes).
 PDF statistics:
- 415 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 434 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
